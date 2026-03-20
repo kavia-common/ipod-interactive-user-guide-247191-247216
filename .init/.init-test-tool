@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/ipod-interactive-user-guide-247191-247216/ipod_guide_backend"
+}
